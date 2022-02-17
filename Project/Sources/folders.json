@@ -1,0 +1,35 @@
+{
+	"(Default Classes)": {},
+	"(Default Folder)": {
+		"groups": [
+			"(Default Classes)",
+			"(Default Forms)",
+			"(Default Project Methods)",
+			"(Default Tables)"
+		]
+	},
+	"(Default Forms)": {},
+	"(Default Project Methods)": {},
+	"(Default Tables)": {},
+	"dropdownmode": {
+		"forms": [
+			"Form1"
+		],
+		"classes": [
+			"DropdownModel"
+		]
+	},
+	"Folder": {
+		"methods": [
+			"test_mailserver"
+		],
+		"classes": [
+			"MailServer"
+		]
+	},
+	"trash": {
+		"groups": [
+			"(Default Folder)"
+		]
+	}
+}
